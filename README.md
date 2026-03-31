@@ -20,4 +20,4 @@
 **Grand Prize (1st)** — T-SUM AI Competition · **Sejong Mayor's Award** — Chungcheong Hackathon
 
 ## Links
-[Portfolio](https://gocks77777-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/haechan-ai/) · [Email](mailto:gocks77777@naver.com)
+[Portfolio](https://gocks77777-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/haechan-ai/) · gocks77777@naver.com
