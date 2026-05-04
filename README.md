@@ -48,7 +48,7 @@ const haechan = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gocks77777/gocks77777/main/profile/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/gocks77777/gocks77777/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
