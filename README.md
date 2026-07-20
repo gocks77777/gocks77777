@@ -19,7 +19,7 @@
 ```typescript
 const haechan = {
   role:       "AI-Native Builder",
-  studying:   "고려대학교 세종 · 컴퓨터공학과 (Senior)",
+  studying:   "고려대학교 · 컴퓨터공학과 (Senior)",
   shipped:    "4 production services · 2 awards · solo",
   agents:     ["Claude Code", "bolt.new", "Cursor"],
   stack:      ["React/Next.js", "FastAPI", "PyTorch", "Claude API"],
